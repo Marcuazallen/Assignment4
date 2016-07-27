@@ -1,0 +1,13 @@
+Marcus allen assignment 4.`
+
+1. You can use the function strcat(string,string1) to concatenate the second string into the first one.
+2. The array is not given an automatic size.
+3. array[8][8] - because there are 8 size 8 arrays within the multidimensional array, similar to a 8x8 grid
+which mean that there is an overall size of 64.
+4.      strcmp() compares the two strings and returns a value showing their relationship. It returns a positive
+number if string1 is less than string 2, and negative if string 1 is larger, and 0 if they are equal.
+	fgets() is used for inputted strings, it reads it and returns the inputted string.
+	
+	strcat() concatenates the the second string into the first one given so that they become one string.
+
+	strlen() Its is used to find the length of a string, and it return the length of the character array -1.	
